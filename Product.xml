@@ -1,0 +1,50 @@
+<?xml version="1.0"?>
+
+<catalog>
+  
+  <product id="1-0001">
+    
+    <mah>Pharma Corp</mah>
+    <mah-address>Roader Road 3</mah-address>
+    <mah-zip>5879</mah-zip>
+    <mah-country>United States</mah-country>
+    <product_name>Aperrin</product_name>
+    <strength>5</strength>
+    <strength_unit>mg</strength_unit>
+    <rx>y</rx>
+    <renewal-upcoming>y</renewal-upcoming>
+    <renewal-date>20.01.2025</renewal-date>
+    
+  </product>
+      
+  <product id="1-0002">
+    
+    <mah>Tablet Int</mah>
+    <mah-address>Hochstrasse 29/6</mah-address>
+    <mah-zip>56482</mah-zip>
+    <mah-country>Germany</mah-country>
+    <product_name>Subtubin</product_name>
+    <strength>10</strength>
+    <strength_unit>mg</strength_unit>
+    <rx>n</rx>
+    <renewal-upcoming>n</renewal-upcoming>
+    <renewal-date></renewal-date>
+    
+  </product>
+  
+  <product id="1-0003">
+    
+    <mah>BioPharma SARL</mah>
+    <mah-address>Rue de Lorde 1</mah-address>
+    <mah-zip>22013</mah-zip>
+    <mah-country>France</mah-country>
+    <product_name>Promtobin</product_name>
+    <strength>40</strength>
+    <strength_unit>mg</strength_unit>
+    <rx>n</rx>
+    <renewal-upcoming>y</renewal-upcoming>
+    <renewal-date>02.11.2024</renewal-date>
+    
+  </product>
+
+</catalog>
