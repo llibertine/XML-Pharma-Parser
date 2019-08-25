@@ -25,7 +25,7 @@ namespace XML_Demo
             XmlDocument doc = new XmlDocument();
 
             // Load XML
-            doc.Load(@"C:\Users\libertine\source\repos\XML-Demo\Product.xml");
+            doc.Load(@"C:\...\Product.xml");
 
             // Save selected nodes in XmlNodeList-variable "nodes"
             XmlNodeList nodes = doc.DocumentElement.SelectNodes("/catalog/product");
